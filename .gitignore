@@ -1,3 +1,7 @@
+# Don't track content of these folders
+env/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
